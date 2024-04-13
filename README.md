@@ -40,7 +40,7 @@ Available settings in the meta.js file
 
 ## Usage
 
-Just put meta.js in your resource folder and run it with cmd/terminal
+Just put meta.js in your resource folder and run it with cmd/terminal<br>
 Note: You need to have NodeJS installed.
 
 ```bash
