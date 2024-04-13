@@ -1,6 +1,7 @@
 # Meta Generator for MTA:SA
 
-Generate the meta.xml file for your resource automatically
+Generate the meta.xml file for your resource automatically<br>
+Demo: https://youtu.be/ZIF_Iwp7MVI
 
 
 ## Supported file types
